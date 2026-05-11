@@ -63,13 +63,13 @@ Clona el repositorio:
 
 Bash
 ```text
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+git clone https://github.com/DevAvirama/Programacion_Orientada_Objetos.git
 ```
 Navega a la carpeta del ejercicio deseado:
 
 Bash
 ```text
-cd EJERCICIO_X
+cd EJERCICIO1
 ```
 Ejecuta el archivo principal:
 
